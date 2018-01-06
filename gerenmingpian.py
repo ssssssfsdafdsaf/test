@@ -1,0 +1,5 @@
+name = input("输入你的名字")
+company = input("输入你的公司")
+title = input("请输入你的职位")
+phone = input("请输入你的电话")
+email = input("请输入你的邮箱")
